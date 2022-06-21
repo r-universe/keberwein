@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "baseballDBR"]
+	path = baseballDBR
+	url = https://github.com/keberwein/baseballdbr
+	shallow = true
+	registered = true
