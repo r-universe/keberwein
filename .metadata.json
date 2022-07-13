@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "baseballDBR",
+    "oncran": true
+  }
+]
